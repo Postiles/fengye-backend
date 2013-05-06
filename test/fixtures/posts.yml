@@ -1,0 +1,22 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: 1
+  title: hehe
+  content: MyText
+  span_x: 1
+  span_y: 1
+  pos_x: 1
+  pos_y: 1
+  board: 
+
+two:
+  id: 2
+  title: MyString
+  content: MyText
+  span_x: 1
+  span_y: 1
+  pos_x: 1
+  pos_y: 1
+  board: 
+
